@@ -256,3 +256,11 @@ a{
     }
   }
 }
+
+@media screen and (max-width: 475px){
+  header{
+    #social{
+      margin-right: 0px;
+    }
+  }
+}
